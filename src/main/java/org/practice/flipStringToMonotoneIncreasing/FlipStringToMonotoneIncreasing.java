@@ -9,8 +9,10 @@ public class FlipStringToMonotoneIncreasing {
     public int minFlipsMonoIncr(String s) {
 
         int firstOne = s.indexOf('1');
+
         if(firstOne >= 0) {
             int counter = 0, flips = 0;
+
             for(int i = firstOne; i < s.length(); i++) {
                 if(s.charAt(i) == '1') counter++;
                 else flips++;
