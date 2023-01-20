@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da516d7c-1998-4fc3-a7a9-fde19f33e2c1" name="Changes" comment="926. Flip String to Monotone Increasing">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/subarraySumsDivisibleByK/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/subarraySumsDivisibleByK/SubarraySumsDivisibleByK.java" afterDir="false" />
+    <list default="true" id="da516d7c-1998-4fc3-a7a9-fde19f33e2c1" name="Changes" comment="974. Subarray Sums Divisible by K">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/nonDecreasingSubsequences/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/nonDecreasingSubsequences/NonDecreasingSubsequences.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/flipStringToMonotoneIncreasing/FlipStringToMonotoneIncreasing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/practice/flipStringToMonotoneIncreasing/FlipStringToMonotoneIncreasing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.org.practice.nonDecreasingSubsequences.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.practice.flipStringToMonotoneIncreasing.Main" />
       <module name="Practice" />
@@ -88,8 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.practice.nonDecreasingSubsequences.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.practice.nonDecreasingSubsequences.Main" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.practice.nonDecreasingSubsequences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.practice.nonDecreasingSubsequences.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -110,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674145739045</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="974. Subarray Sums Divisible by K">
+      <created>1674158046975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674158046975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,7 +146,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="926. Flip String to Monotone Increasing" />
-    <option name="LAST_COMMIT_MESSAGE" value="926. Flip String to Monotone Increasing" />
+    <MESSAGE value="974. Subarray Sums Divisible by K" />
+    <option name="LAST_COMMIT_MESSAGE" value="974. Subarray Sums Divisible by K" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/practice/nonDecreasingSubsequences/NonDecreasingSubsequences.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/practice/nonDecreasingSubsequences/NonDecreasingSubsequences.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
