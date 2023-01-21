@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da516d7c-1998-4fc3-a7a9-fde19f33e2c1" name="Changes" comment="974. Subarray Sums Divisible by K">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/nonDecreasingSubsequences/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/nonDecreasingSubsequences/NonDecreasingSubsequences.java" afterDir="false" />
+    <list default="true" id="da516d7c-1998-4fc3-a7a9-fde19f33e2c1" name="Changes" comment="491. Non-decreasing Subsequences">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/maximumSumCircularSubarray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/maximumSumCircularSubarray/MaximumSumCircularSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/restoreIPAddresses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/practice/restoreIPAddresses/RestoreIPAddresses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,25 +63,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/My Work/Udemy/MasterJavaWebServicesAndRESTAPIWithSpringBoot&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/My Work/Udemy/MasterMicroservicesWithSpringBootAndSpringCloud/learn-spring-boot/pom.xml",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
-  <component name="RunManager" selected="Application.org.practice.nonDecreasingSubsequences.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.org.practice.maximumSumCircularSubarray.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.practice.flipStringToMonotoneIncreasing.Main" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.practice.flipStringToMonotoneIncreasing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.practice.maximumSumCircularSubarray.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.practice.maximumSumCircularSubarray.Main" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.practice.maximumSumCircularSubarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.practice.maximumSumCircularSubarray.Main" />
         <item itemvalue="Application.org.practice.nonDecreasingSubsequences.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -130,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674158046975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="491. Non-decreasing Subsequences">
+      <created>1674228757478</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674228757478</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,23 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="926. Flip String to Monotone Increasing" />
     <MESSAGE value="974. Subarray Sums Divisible by K" />
-    <option name="LAST_COMMIT_MESSAGE" value="974. Subarray Sums Divisible by K" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/practice/nonDecreasingSubsequences/NonDecreasingSubsequences.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/practice/nonDecreasingSubsequences/NonDecreasingSubsequences.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="491. Non-decreasing Subsequences" />
+    <option name="LAST_COMMIT_MESSAGE" value="491. Non-decreasing Subsequences" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
